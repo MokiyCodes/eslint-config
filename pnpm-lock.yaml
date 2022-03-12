@@ -1,10 +1,10 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@norathefurry/eslint-config-base': ^1.0.0
+  '@norathefurry/eslint-config-base': 1.0.0
   '@typescript-eslint/eslint-plugin': 5.14.0
   '@typescript-eslint/parser': 5.14.0
-  eslint: ^8.11.0
+  eslint: 8.11.0
   eslint-plugin-prefer-arrow: 1.2.3
   typescript: 4.6.2
 

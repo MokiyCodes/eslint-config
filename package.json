@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/MokiyCodes/eslint-config#readme",
   "dependencies": {
-    "@norathefurry/eslint-config-base": "1.1.0",
+    "@norathefurry/eslint-config-base": "1.0.0",
     "@typescript-eslint/eslint-plugin": "5.14.0",
     "@typescript-eslint/parser": "5.14.0",
     "eslint-plugin-prefer-arrow": "1.2.3",
