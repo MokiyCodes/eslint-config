@@ -24,5 +24,5 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 Links:<br/>
 [Preset](https://github.com/MokiyCodes/eslint-config-preset)<br/>
-[Config](https://github.com/MokiyCodes/eslint-config)<br/>
+**[Config](https://github.com/MokiyCodes/eslint-config)**<br/>
 [Base Config](https://github.com/MokiyCodes/eslint-config-base)
