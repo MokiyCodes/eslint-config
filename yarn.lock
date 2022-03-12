@@ -52,6 +52,13 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@norathefurry/eslint-config-base@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@norathefurry/eslint-config-base/-/eslint-config-base-1.0.0.tgz#176b93bcd16db79a48e37aba409e039563158bdf"
+  integrity sha512-ME92qYPtM12w3zf+SmPBKRzRAeaYy0QSkcWZZjwdQ4VNRbne25ZTfcwikJ+FgJvl2zyqE7IE4UmPKpn5EiAd0Q==
+  dependencies:
+    eslint "8.11.0"
+
 "@types/json-schema@^7.0.9":
   version "7.0.9"
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.9.tgz#97edc9037ea0c38585320b28964dde3b39e4660d"
