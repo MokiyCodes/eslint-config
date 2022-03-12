@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/MokiyCodes/eslint-config#readme",
   "dependencies": {
+    "@norathefurry/eslint-config-base": "^1.0.0",
     "@typescript-eslint/eslint-plugin": "5.14.0",
     "@typescript-eslint/parser": "5.14.0",
     "eslint-plugin-prefer-arrow": "1.2.3",
@@ -29,5 +30,8 @@
   "peerDependencies": {
     "eslint": "8.11.0"
   },
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  }
 }
