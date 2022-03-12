@@ -21,11 +21,11 @@
   },
   "homepage": "https://github.com/MokiyCodes/eslint-config#readme",
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.14.0",
-    "@typescript-eslint/parser": "^5.14.0",
-    "eslint": "^8.11.0",
-    "eslint-plugin-prefer-arrow": "^1.2.3",
-    "typescript": "^4.6.2"
+    "@typescript-eslint/eslint-plugin": "5.14.0",
+    "@typescript-eslint/parser": "5.14.0",
+    "eslint": "8.11.0",
+    "eslint-plugin-prefer-arrow": "1.2.3",
+    "typescript": "4.6.2"
   },
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.14.0",
