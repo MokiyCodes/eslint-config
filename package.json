@@ -1,0 +1,29 @@
+{
+  "name": "@norathefurry/eslint-config",
+  "version": "1.0.0",
+  "description": "My personal ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MokiyCodes/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "MokiyCodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MokiyCodes/eslint-config/issues"
+  },
+  "homepage": "https://github.com/MokiyCodes/eslint-config#readme",
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  },
+  "peerDependencies": {
+    "eslint": "^8.11.0"
+  }
+}
