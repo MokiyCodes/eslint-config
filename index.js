@@ -25,6 +25,7 @@ module.exports = {
     '@typescript-eslint/no-explicit-any': [0],
     '@typescript-eslint/no-var-requires': [0],
     '@typescript-eslint/no-extra-semi': [0],
+    '@typescript-eslint/no-non-null-assertion': 0,
     // functions
     'prefer-arrow/prefer-arrow-functions': [
       2,
@@ -34,5 +35,8 @@ module.exports = {
         'classPropertiesAllowed': false
       }
     ],
+    // fix typescript being weird for environment variables
+    /** Please enable this in non-ts projects */
+    'dot-notation': [0]
   },
 };
